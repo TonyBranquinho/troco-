@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Troco\Troco\bin\Debug\Troco.exe.config
+C:\temp\ws-vs2019\Troco\Troco\bin\Debug\Troco.exe
+C:\temp\ws-vs2019\Troco\Troco\bin\Debug\Troco.pdb
+C:\temp\ws-vs2019\Troco\Troco\obj\Debug\Troco.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Troco\Troco\obj\Debug\Troco.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Troco\Troco\obj\Debug\Troco.exe
+C:\temp\ws-vs2019\Troco\Troco\obj\Debug\Troco.pdb
